@@ -77,7 +77,7 @@
                     <connections>
                         <outlet property="helloLbl" destination="uRS-yq-BKy" id="Lsr-q6-hNK"/>
                         <outlet property="nameEntryTextField" destination="dTa-2u-Hev" id="n6n-DR-9lQ"/>
-                        <outlet property="namesLbl" destination="y8o-Un-Psc" id="hji-XJ-8vj"/>
+                        <outlet property="namesLbl" destination="HT9-MS-7dn" id="ooI-vg-ohh"/>
                         <outlet property="submitBtn" destination="upa-M4-D8e" id="iKc-ze-u6f"/>
                     </connections>
                 </viewController>
